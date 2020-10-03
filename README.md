@@ -1,0 +1,3 @@
+# CONTRIBUTEURS
+
+* Jean MIONNET
