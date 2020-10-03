@@ -1,3 +1,5 @@
 # CONTRIBUTEURS
 
 * Jean MIONNET
+* Kévin WOLFF
+* Lisa MICHALLON
