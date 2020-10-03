@@ -1,3 +1,4 @@
 # CONTRIBUTEURS
 
 * Jean MIONNET
+* Kévin WOLFF
